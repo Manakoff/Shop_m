@@ -1,0 +1,7 @@
+Дата: 30-11-2025 13:51:31
+Покупатель: Покупатель Иванов
+Продавец: Ivan Ivanov
+Товары:
+Product ID: prod001, Quantity: 3, Price: 100, Sum: 300
+Product ID: prod002, Quantity: 2, Price: 150, Sum: 300
+Общая сумма: 600
